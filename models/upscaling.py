@@ -4,7 +4,6 @@ import torch.nn.functional as F
 import torchvision.transforms as transforms
 from PIL import Image
 import numpy as np
-import cv2
 from typing import Tuple, Optional
 import os
 
