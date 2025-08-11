@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-image>=0.21.0
+tqdm>=4.65.0
+streamlit>=1.28.0
+gradio>=3.50.0
+transformers>=4.30.0
+diffusers>=0.21.0
+accelerate>=0.20.0
+xformers>=0.0.20 
