@@ -6,7 +6,6 @@ from PIL import Image, ImageDraw
 import numpy as np
 import cv2
 from typing import Tuple, Optional, Union
-import os
 
 class LaMaInpainting(nn.Module):
     """Large Mask Inpainting (LaMa) model for irregular masks"""
