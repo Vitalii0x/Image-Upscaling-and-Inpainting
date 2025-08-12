@@ -4,6 +4,10 @@ A comprehensive AI-powered solution for image upscaling and inpainting using sta
 
 <img width="302" height="226" alt="Image" src="https://github.com/user-attachments/assets/acf5ecc8-b74f-4cd4-9cdd-4eaaa481689c" />
 <img width="2304" height="1664" alt="Image" src="https://github.com/user-attachments/assets/20d4357b-a031-4cbf-b3b0-99b660161c2e" />
+<img width="287" height="176" alt="Image" src="https://github.com/user-attachments/assets/426bdda4-f675-465e-b876-e0497cb884dd" />
+<img width="2560" height="1536" alt="Image" src="https://github.com/user-attachments/assets/5420aca1-c6e2-4f71-8357-b12c413443a5" />
+<img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/7d438858-8590-40ef-b9bb-1bb75e56bc50" />
+<img width="2688" height="1536" alt="Image" src="https://github.com/user-attachments/assets/d404df15-8460-4db1-b1e6-9e765f960670" />
 
 ## Features
 
