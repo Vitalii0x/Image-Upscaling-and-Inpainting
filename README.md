@@ -9,6 +9,11 @@ A comprehensive AI-powered solution for image upscaling and inpainting using sta
 <img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/7d438858-8590-40ef-b9bb-1bb75e56bc50" />
 <img width="2688" height="1536" alt="Image" src="https://github.com/user-attachments/assets/d404df15-8460-4db1-b1e6-9e765f960670" />
 
+---
+
+<img width="2880" height="2880" alt="Image" src="https://github.com/user-attachments/assets/e647b315-5a56-4c3f-8406-bab81ab1649f" />
+<img width="2880" height="2880" alt="Image" src="https://github.com/user-attachments/assets/ad455fcf-bdd0-4b8d-9a9d-adca1a665918" />
+
 ## Features
 
 - **Image Upscaling**: Upscale low-resolution images to high resolution using ESRGAN and Real-ESRGAN models
