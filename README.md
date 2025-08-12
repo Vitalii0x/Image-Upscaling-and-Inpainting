@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered solution for image upscaling and inpainting using state-of-the-art deep learning models.
 
+<img width="302" height="226" alt="Image" src="https://github.com/user-attachments/assets/acf5ecc8-b74f-4cd4-9cdd-4eaaa481689c" />
+
 ## Features
 
 - **Image Upscaling**: Upscale low-resolution images to high resolution using ESRGAN and Real-ESRGAN models
