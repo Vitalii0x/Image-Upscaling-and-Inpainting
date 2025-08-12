@@ -3,6 +3,7 @@
 A comprehensive AI-powered solution for image upscaling and inpainting using state-of-the-art deep learning models.
 
 <img width="302" height="226" alt="Image" src="https://github.com/user-attachments/assets/acf5ecc8-b74f-4cd4-9cdd-4eaaa481689c" />
+<img width="2304" height="1664" alt="Image" src="https://github.com/user-attachments/assets/20d4357b-a031-4cbf-b3b0-99b660161c2e" />
 
 ## Features
 
